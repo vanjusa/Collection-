@@ -1,0 +1,106 @@
+[
+  {
+    "name": "1337x",
+    "version": "1.0.0",
+    "language": "all",
+    "url": "https://example.com/1337x.csx",
+    "type": "torrent",
+    "nsfw": false
+  },
+  {
+    "name": "Thepiratebay",
+    "version": "1.0.0",
+    "language": "all",
+    "url": "https://example.com/thepiratebay.csx",
+    "type": "torrent",
+    "nsfw": false
+  },
+  {
+    "name": "Yts",
+    "version": "1.0.0",
+    "language": "all",
+    "url": "https://example.com/yts.csx",
+    "type": "torrent",
+    "nsfw": false
+  },
+  {
+    "name": "Torrentgalaxy",
+    "version": "1.0.0",
+    "language": "all",
+    "url": "https://example.com/torrentgalaxy.csx",
+    "type": "torrent",
+    "nsfw": false
+  },
+  {
+    "name": "Rarbg",
+    "version": "1.0.0",
+    "language": "all",
+    "url": "https://example.com/rarbg.csx",
+    "type": "torrent",
+    "nsfw": false
+  },
+  {
+    "name": "Nyaa",
+    "version": "1.0.0",
+    "language": "all",
+    "url": "https://example.com/nyaa.csx",
+    "type": "torrent",
+    "nsfw": false
+  },
+  {
+    "name": "Eztv",
+    "version": "1.0.0",
+    "language": "all",
+    "url": "https://example.com/eztv.csx",
+    "type": "torrent",
+    "nsfw": false
+  },
+  {
+    "name": "Torlock",
+    "version": "1.0.0",
+    "language": "all",
+    "url": "https://example.com/torlock.csx",
+    "type": "torrent",
+    "nsfw": false
+  },
+  {
+    "name": "Kickasstorrents",
+    "version": "1.0.0",
+    "language": "all",
+    "url": "https://example.com/kickasstorrents.csx",
+    "type": "torrent",
+    "nsfw": false
+  },
+  {
+    "name": "Pornhub",
+    "version": "1.0.0",
+    "language": "all",
+    "url": "https://example.com/pornhub.csx",
+    "type": "torrent",
+    "nsfw": true
+  },
+  {
+    "name": "Spankbang",
+    "version": "1.0.0",
+    "language": "all",
+    "url": "https://example.com/spankbang.csx",
+    "type": "torrent",
+    "nsfw": true
+  },
+  {
+    "name": "Eporner",
+    "version": "1.0.0",
+    "language": "all",
+    "url": "https://example.com/eporner.csx",
+    "type": "torrent",
+    "nsfw": true
+  },
+  {
+    "name": "Javlibrary",
+    "version": "1.0.0",
+    "language": "all",
+    "url": "https://example.com/javlibrary.csx",
+    "type": "torrent",
+    "nsfw": true
+  }
+]
