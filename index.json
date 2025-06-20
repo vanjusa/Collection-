@@ -3,7 +3,7 @@
     "name": "1337x",
     "version": "1.0.0",
     "language": "all",
-    "url": "https://example.com/1337x.csx",
+    "url": "https://raw.githubusercontent.com/vanjusa/Collection-/main/1337x.csx",
     "type": "torrent",
     "nsfw": false
   },
@@ -11,7 +11,7 @@
     "name": "Thepiratebay",
     "version": "1.0.0",
     "language": "all",
-    "url": "https://example.com/thepiratebay.csx",
+    "url": "https://raw.githubusercontent.com/vanjusa/Collection-/main/thepiratebay.csx",
     "type": "torrent",
     "nsfw": false
   },
@@ -19,7 +19,7 @@
     "name": "Yts",
     "version": "1.0.0",
     "language": "all",
-    "url": "https://example.com/yts.csx",
+    "url": "https://raw.githubusercontent.com/vanjusa/Collection-/main/yts.csx",
     "type": "torrent",
     "nsfw": false
   },
@@ -27,7 +27,7 @@
     "name": "Torrentgalaxy",
     "version": "1.0.0",
     "language": "all",
-    "url": "https://example.com/torrentgalaxy.csx",
+    "url": "https://raw.githubusercontent.com/vanjusa/Collection-/main/torrentgalaxy.csx",
     "type": "torrent",
     "nsfw": false
   },
@@ -35,7 +35,7 @@
     "name": "Rarbg",
     "version": "1.0.0",
     "language": "all",
-    "url": "https://example.com/rarbg.csx",
+    "url": "https://raw.githubusercontent.com/vanjusa/Collection-/main/rarbg.csx",
     "type": "torrent",
     "nsfw": false
   },
@@ -43,7 +43,7 @@
     "name": "Nyaa",
     "version": "1.0.0",
     "language": "all",
-    "url": "https://example.com/nyaa.csx",
+    "url": "https://raw.githubusercontent.com/vanjusa/Collection-/main/nyaa.csx",
     "type": "torrent",
     "nsfw": false
   },
@@ -51,7 +51,7 @@
     "name": "Eztv",
     "version": "1.0.0",
     "language": "all",
-    "url": "https://example.com/eztv.csx",
+    "url": "https://raw.githubusercontent.com/vanjusa/Collection-/main/eztv.csx",
     "type": "torrent",
     "nsfw": false
   },
@@ -59,7 +59,7 @@
     "name": "Torlock",
     "version": "1.0.0",
     "language": "all",
-    "url": "https://example.com/torlock.csx",
+    "url": "https://raw.githubusercontent.com/vanjusa/Collection-/main/torlock.csx",
     "type": "torrent",
     "nsfw": false
   },
@@ -67,7 +67,7 @@
     "name": "Kickasstorrents",
     "version": "1.0.0",
     "language": "all",
-    "url": "https://example.com/kickasstorrents.csx",
+    "url": "https://raw.githubusercontent.com/vanjusa/Collection-/main/kickasstorrents.csx",
     "type": "torrent",
     "nsfw": false
   },
@@ -75,7 +75,7 @@
     "name": "Pornhub",
     "version": "1.0.0",
     "language": "all",
-    "url": "https://example.com/pornhub.csx",
+    "url": "https://raw.githubusercontent.com/vanjusa/Collection-/main/pornhub.csx",
     "type": "torrent",
     "nsfw": true
   },
@@ -83,7 +83,7 @@
     "name": "Spankbang",
     "version": "1.0.0",
     "language": "all",
-    "url": "https://example.com/spankbang.csx",
+    "url": "https://raw.githubusercontent.com/vanjusa/Collection-/main/spankbang.csx",
     "type": "torrent",
     "nsfw": true
   },
@@ -91,7 +91,7 @@
     "name": "Eporner",
     "version": "1.0.0",
     "language": "all",
-    "url": "https://example.com/eporner.csx",
+    "url": "https://raw.githubusercontent.com/vanjusa/Collection-/main/eporner.csx",
     "type": "torrent",
     "nsfw": true
   },
@@ -99,7 +99,7 @@
     "name": "Javlibrary",
     "version": "1.0.0",
     "language": "all",
-    "url": "https://example.com/javlibrary.csx",
+    "url": "https://raw.githubusercontent.com/vanjusa/Collection-/main/javlibrary.csx",
     "type": "torrent",
     "nsfw": true
   }
